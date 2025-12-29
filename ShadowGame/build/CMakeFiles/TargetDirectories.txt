@@ -1,0 +1,3 @@
+/home/kyoash/Code_Field/Computer_Graphic/ShadowGame/build/CMakeFiles/ShadowGame.dir
+/home/kyoash/Code_Field/Computer_Graphic/ShadowGame/build/CMakeFiles/edit_cache.dir
+/home/kyoash/Code_Field/Computer_Graphic/ShadowGame/build/CMakeFiles/rebuild_cache.dir
